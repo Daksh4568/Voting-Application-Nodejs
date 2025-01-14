@@ -1,0 +1,12 @@
+{
+  "name": "voting-application-nodejs",
+  "version": "1.0.0",
+  "description": "Voting Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Daksh Pratap Singh",
+  "license": "ISC"
+}
